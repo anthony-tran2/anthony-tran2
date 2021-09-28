@@ -1,3 +1,7 @@
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthony-tran2&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-tran2&layout=compact&theme=radical)](https://github.com/anthony-tran2/github-readme-stats)
+
+
 ### Hi there! I'm Anthony! 👋  
 
 I am a full-stack web developer. I know JavaScript, React, Node.js, CSS, HTML, and more!
