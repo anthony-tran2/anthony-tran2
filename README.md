@@ -7,7 +7,7 @@ My love for creating and building things led me to web development and I have be
 🌟 Fun Facts!
 
 * I love building custom mechanical keyboards.
-* I enjoy singing and do so in my spare time 🎙.
+* I enjoy photography and do so in my spare time.
 
 ##### 📚 What I Code With
 
